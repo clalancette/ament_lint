@@ -1,6 +1,8 @@
 from setuptools import find_packages
 from setuptools import setup
 
+import fastentrypoints
+
 package_name = 'ament_pclint'
 
 setup(
